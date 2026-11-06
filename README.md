@@ -1,12 +1,5 @@
 # Partie 1 - Git
 
-Bonjour
-Test
-
-Bonjour test
-
-LALALALAAA
-
 ## Étape 1 - manipulations de base
 
 Utiliser le *shell* pour exécuter diverses sous-commandes de Git (lorsque l'on
@@ -110,5 +103,3 @@ L'étape de `rebase` va échouer du fait de conflits :
 - utiliser les onglets "Commits" et "Files changed" pour consulter respectivement
   la liste de commits poussés plut tôt et afficher le *diff* correspondant à ces
   commits.
-
-Liza
