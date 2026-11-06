@@ -9,4 +9,5 @@ de personnes, sur tous les environnements (Windows, Mac, Linux). Git est aussi
 le système à la base du célèbre site web GitHub, le plus important hébergeur de
 code informatique.
 
-gitadd
+a+=b > a!=b
+blalab
