@@ -1,6 +1,7 @@
 # Partie 1 - Git
 
 Bonjour
+Test
 
 ## Étape 1 - manipulations de base
 
