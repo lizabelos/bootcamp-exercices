@@ -106,3 +106,5 @@ L'étape de `rebase` va échouer du fait de conflits :
 - utiliser les onglets "Commits" et "Files changed" pour consulter respectivement
   la liste de commits poussés plut tôt et afficher le *diff* correspondant à ces
   commits.
+
+Liza
